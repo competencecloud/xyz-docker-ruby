@@ -7,6 +7,6 @@ Docker container for a Ruby server
 
 **Run: **
 
-    docker run -it --name my-running-script my-ruby-app
+    docker run -p 3000:3000 -d my-rails-app
 
 
