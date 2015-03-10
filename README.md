@@ -5,7 +5,7 @@ Docker container for a Ruby server
 
     docker build -t my-rails-app .
 
-**Run: **
+**Run:**
 
     docker run -p 3000:3000 -d my-rails-app
     
