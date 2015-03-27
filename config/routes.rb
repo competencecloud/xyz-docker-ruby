@@ -53,4 +53,7 @@ Rails.application.routes.draw do
   #     # (app/controllers/admin/products_controller.rb)
   #     resources :products
   #   end
+
+  get 'wordcloud' => 'wordmap#render_wordcloud', :as => :render_wordcloud
+
 end
