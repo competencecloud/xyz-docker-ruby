@@ -1,0 +1,16 @@
+<h1>This is a wordcloud</h1>
+
+<h2><b><u> City: <%= @param_city %></b></u><br><br></h2>
+<% @city_competences.each do |city| %>
+<!--     <%= city[0].to_s %> -->
+    
+    <% if @param_city.to_s == city[0].to_s %>
+        <% city[1].each do |competence| %>
+            <tr class="show_lines">
+            <font size=<%= competence[1] %>>
+                <td colspan="2"> <%= competence[0] %></td><br>
+            </font>
+            </tr>
+        <% end %>
+    <% end %>
+<% end %>
