@@ -1,117 +1,320 @@
 [
   {
     "id": 0,
-    "name": "nulla anim proident",
+    "name": "quis anim minim",
     "office": "växjö",
     "competences": [
       {
+        "years": 3,
+        "type": "ror"
+      },
+      {
+        "years": 2,
+        "type": "html"
+      },
+      {
+        "years": 8,
+        "type": "angular"
+      },
+      {
+        "years": 5,
+        "type": "ios"
+      },
+      {
+        "years": 2,
+        "type": "ruby"
+      },
+      {
+        "years": 1,
+        "type": "android"
+      },
+      {
+        "years": 7,
+        "type": "android"
+      },
+      {
+        "years": 9,
+        "type": "html"
+      },
+      {
+        "years": 10,
+        "type": "angular"
+      },
+      {
+        "years": 9,
+        "type": "angular"
+      },
+      {
+        "years": 4,
+        "type": "ios"
+      },
+      {
         "years": 6,
+        "type": "ror"
+      },
+      {
+        "years": 3,
+        "type": "ios"
+      },
+      {
+        "years": 10,
+        "type": "css"
+      },
+      {
+        "years": 8,
+        "type": "ios"
+      },
+      {
+        "years": 7,
+        "type": "android"
+      },
+      {
+        "years": 4,
+        "type": "html"
+      },
+      {
+        "years": 5,
+        "type": "ror"
+      },
+      {
+        "years": 8,
+        "type": "ror"
+      },
+      {
+        "years": 7,
+        "type": "ror"
+      },
+      {
+        "years": 8,
         "type": "java"
+      },
+      {
+        "years": 2,
+        "type": "ruby"
+      },
+      {
+        "years": 2,
+        "type": "java"
+      },
+      {
+        "years": 6,
+        "type": "css"
+      },
+      {
+        "years": 3,
+        "type": "java"
+      },
+      {
+        "years": 1,
+        "type": "ios"
+      },
+      {
+        "years": 1,
+        "type": "ror"
+      },
+      {
+        "years": 3,
+        "type": "ios"
+      },
+      {
+        "years": 10,
+        "type": "ruby"
+      },
+      {
+        "years": 8,
+        "type": "html"
+      },
+      {
+        "years": 6,
+        "type": "ror"
+      },
+      {
+        "years": 1,
+        "type": "java"
+      },
+      {
+        "years": 2,
+        "type": "css"
+      },
+      {
+        "years": 8,
+        "type": "css"
+      },
+      {
+        "years": 5,
+        "type": "android"
+      },
+      {
+        "years": 5,
+        "type": "html"
+      },
+      {
+        "years": 5,
+        "type": "angular"
+      },
+      {
+        "years": 2,
+        "type": "ios"
+      },
+      {
+        "years": 1,
+        "type": "ruby"
+      },
+      {
+        "years": 8,
+        "type": "ruby"
       },
       {
         "years": 4,
         "type": "ror"
       },
       {
-        "years": 5,
-        "type": "java"
-      },
-      {
-        "years": 3,
+        "years": 4,
         "type": "ror"
       },
       {
-        "years": 10,
+        "years": 1,
+        "type": "android"
+      },
+      {
+        "years": 8,
+        "type": "css"
+      },
+      {
+        "years": 5,
         "type": "ror"
       }
     ]
   },
   {
     "id": 1,
-    "name": "enim cupidatat incididunt",
-    "office": "växjö",
+    "name": "amet ullamco elit",
+    "office": "stockholm",
     "competences": [
       {
-        "years": 2,
-        "type": "angular"
+        "years": 1,
+        "type": "css"
       },
       {
         "years": 2,
         "type": "java"
-      },
-      {
-        "years": 10,
-        "type": "ror"
-      },
-      {
-        "years": 2,
-        "type": "android"
-      },
-      {
-        "years": 6,
-        "type": "java"
-      }
-    ]
-  },
-  {
-    "id": 2,
-    "name": "dolor sint id",
-    "office": "växjö",
-    "competences": [
-      {
-        "years": 4,
-        "type": "ror"
       },
       {
         "years": 4,
-        "type": "ror"
-      },
-      {
-        "years": 9,
-        "type": "java"
+        "type": "ios"
       },
       {
         "years": 1,
+        "type": "android"
+      },
+      {
+        "years": 5,
+        "type": "ruby"
+      },
+      {
+        "years": 8,
+        "type": "android"
+      },
+      {
+        "years": 10,
         "type": "angular"
       },
       {
-        "years": 3,
-        "type": "angular"
-      }
-    ]
-  },
-  {
-    "id": 3,
-    "name": "quis labore incididunt",
-    "office": "göteborg",
-    "competences": [
+        "years": 1,
+        "type": "ruby"
+      },
+      {
+        "years": 2,
+        "type": "java"
+      },
       {
         "years": 6,
         "type": "android"
       },
       {
-        "years": 8,
-        "type": "ror"
-      },
-      {
         "years": 9,
-        "type": "ror"
-      },
-      {
-        "years": 3,
         "type": "java"
       },
       {
         "years": 2,
+        "type": "ror"
+      },
+      {
+        "years": 3,
+        "type": "ror"
+      },
+      {
+        "years": 7,
+        "type": "ios"
+      },
+      {
+        "years": 5,
+        "type": "android"
+      },
+      {
+        "years": 5,
+        "type": "angular"
+      },
+      {
+        "years": 9,
+        "type": "ruby"
+      },
+      {
+        "years": 4,
+        "type": "css"
+      },
+      {
+        "years": 4,
+        "type": "android"
+      },
+      {
+        "years": 2,
+        "type": "angular"
+      },
+      {
+        "years": 3,
+        "type": "ios"
+      },
+      {
+        "years": 10,
+        "type": "angular"
+      },
+      {
+        "years": 8,
+        "type": "html"
+      },
+      {
+        "years": 6,
+        "type": "ror"
+      },
+      {
+        "years": 7,
+        "type": "ror"
+      },
+      {
+        "years": 8,
+        "type": "ruby"
+      },
+      {
+        "years": 4,
+        "type": "ruby"
+      },
+      {
+        "years": 5,
         "type": "java"
-      }
-    ]
-  },
-  {
-    "id": 4,
-    "name": "ipsum qui incididunt",
-    "office": "malmö",
-    "competences": [
+      },
+      {
+        "years": 7,
+        "type": "ruby"
+      },
+      {
+        "years": 7,
+        "type": "ios"
+      },
+      {
+        "years": 6,
+        "type": "css"
+      },
       {
         "years": 7,
         "type": "android"
@@ -122,26 +325,492 @@
       },
       {
         "years": 5,
+        "type": "html"
+      },
+      {
+        "years": 4,
+        "type": "ios"
+      },
+      {
+        "years": 9,
+        "type": "css"
+      },
+      {
+        "years": 2,
+        "type": "android"
+      },
+      {
+        "years": 7,
+        "type": "java"
+      },
+      {
+        "years": 4,
+        "type": "android"
+      },
+      {
+        "years": 10,
+        "type": "css"
+      },
+      {
+        "years": 7,
+        "type": "java"
+      },
+      {
+        "years": 8,
         "type": "angular"
       },
       {
+        "years": 9,
+        "type": "ror"
+      },
+      {
+        "years": 9,
+        "type": "angular"
+      },
+      {
+        "years": 7,
+        "type": "html"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "labore aute do",
+    "office": "stockholm",
+    "competences": [
+      {
+        "years": 2,
+        "type": "html"
+      },
+      {
+        "years": 5,
+        "type": "html"
+      },
+      {
+        "years": 6,
+        "type": "android"
+      },
+      {
+        "years": 6,
+        "type": "ruby"
+      },
+      {
+        "years": 3,
+        "type": "ios"
+      },
+      {
+        "years": 4,
+        "type": "html"
+      },
+      {
+        "years": 8,
+        "type": "ruby"
+      },
+      {
         "years": 1,
+        "type": "android"
+      },
+      {
+        "years": 3,
+        "type": "html"
+      },
+      {
+        "years": 10,
+        "type": "css"
+      },
+      {
+        "years": 8,
+        "type": "ruby"
+      },
+      {
+        "years": 7,
+        "type": "angular"
+      },
+      {
+        "years": 6,
+        "type": "html"
+      },
+      {
+        "years": 4,
+        "type": "ruby"
+      },
+      {
+        "years": 5,
+        "type": "android"
+      },
+      {
+        "years": 3,
+        "type": "angular"
+      },
+      {
+        "years": 7,
+        "type": "html"
+      },
+      {
+        "years": 10,
+        "type": "html"
+      },
+      {
+        "years": 3,
+        "type": "angular"
+      },
+      {
+        "years": 6,
+        "type": "css"
+      },
+      {
+        "years": 7,
+        "type": "android"
+      },
+      {
+        "years": 2,
+        "type": "ios"
+      },
+      {
+        "years": 10,
+        "type": "ios"
+      },
+      {
+        "years": 7,
+        "type": "angular"
+      },
+      {
+        "years": 9,
+        "type": "android"
+      },
+      {
+        "years": 9,
+        "type": "android"
+      },
+      {
+        "years": 1,
+        "type": "android"
+      },
+      {
+        "years": 6,
+        "type": "ror"
+      },
+      {
+        "years": 8,
+        "type": "css"
+      },
+      {
+        "years": 4,
+        "type": "html"
+      },
+      {
+        "years": 1,
+        "type": "html"
+      },
+      {
+        "years": 1,
+        "type": "android"
+      },
+      {
+        "years": 5,
+        "type": "ruby"
+      },
+      {
+        "years": 5,
+        "type": "html"
+      },
+      {
+        "years": 4,
         "type": "ror"
       },
       {
         "years": 8,
         "type": "android"
+      },
+      {
+        "years": 3,
+        "type": "android"
+      },
+      {
+        "years": 8,
+        "type": "angular"
+      },
+      {
+        "years": 8,
+        "type": "android"
+      },
+      {
+        "years": 6,
+        "type": "ruby"
+      },
+      {
+        "years": 10,
+        "type": "android"
+      },
+      {
+        "years": 5,
+        "type": "java"
+      },
+      {
+        "years": 2,
+        "type": "ios"
+      },
+      {
+        "years": 10,
+        "type": "angular"
+      },
+      {
+        "years": 3,
+        "type": "java"
       }
     ]
   },
   {
-    "id": 5,
-    "name": "eu ut elit",
-    "office": "malmö",
+    "id": 3,
+    "name": "incididunt incididunt veniam",
+    "office": "göteborg",
     "competences": [
+      {
+        "years": 1,
+        "type": "java"
+      },
+      {
+        "years": 9,
+        "type": "android"
+      },
+      {
+        "years": 2,
+        "type": "ios"
+      },
+      {
+        "years": 5,
+        "type": "html"
+      },
+      {
+        "years": 6,
+        "type": "ror"
+      },
+      {
+        "years": 7,
+        "type": "android"
+      },
+      {
+        "years": 7,
+        "type": "html"
+      },
+      {
+        "years": 6,
+        "type": "angular"
+      },
+      {
+        "years": 2,
+        "type": "ios"
+      },
+      {
+        "years": 9,
+        "type": "ios"
+      },
+      {
+        "years": 4,
+        "type": "html"
+      },
+      {
+        "years": 4,
+        "type": "ios"
+      },
+      {
+        "years": 3,
+        "type": "java"
+      },
+      {
+        "years": 6,
+        "type": "ios"
+      },
+      {
+        "years": 2,
+        "type": "ios"
+      },
+      {
+        "years": 3,
+        "type": "ruby"
+      },
+      {
+        "years": 1,
+        "type": "android"
+      },
+      {
+        "years": 9,
+        "type": "android"
+      },
+      {
+        "years": 8,
+        "type": "html"
+      },
+      {
+        "years": 9,
+        "type": "html"
+      },
+      {
+        "years": 7,
+        "type": "java"
+      },
+      {
+        "years": 1,
+        "type": "css"
+      },
+      {
+        "years": 3,
+        "type": "html"
+      },
+      {
+        "years": 2,
+        "type": "android"
+      },
+      {
+        "years": 4,
+        "type": "html"
+      },
+      {
+        "years": 5,
+        "type": "ios"
+      },
+      {
+        "years": 10,
+        "type": "html"
+      },
+      {
+        "years": 5,
+        "type": "css"
+      },
+      {
+        "years": 5,
+        "type": "ios"
+      },
+      {
+        "years": 2,
+        "type": "angular"
+      },
+      {
+        "years": 10,
+        "type": "ror"
+      },
+      {
+        "years": 9,
+        "type": "angular"
+      },
+      {
+        "years": 4,
+        "type": "ror"
+      },
+      {
+        "years": 5,
+        "type": "css"
+      },
+      {
+        "years": 9,
+        "type": "android"
+      },
+      {
+        "years": 7,
+        "type": "java"
+      },
       {
         "years": 10,
         "type": "android"
+      },
+      {
+        "years": 2,
+        "type": "ios"
+      },
+      {
+        "years": 5,
+        "type": "ios"
+      },
+      {
+        "years": 3,
+        "type": "ios"
+      },
+      {
+        "years": 8,
+        "type": "css"
+      },
+      {
+        "years": 6,
+        "type": "css"
+      },
+      {
+        "years": 5,
+        "type": "android"
+      },
+      {
+        "years": 5,
+        "type": "html"
+      },
+      {
+        "years": 2,
+        "type": "android"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "dolor pariatur ex",
+    "office": "växjö",
+    "competences": [
+      {
+        "years": 5,
+        "type": "angular"
+      },
+      {
+        "years": 8,
+        "type": "html"
+      },
+      {
+        "years": 10,
+        "type": "ruby"
+      },
+      {
+        "years": 8,
+        "type": "html"
+      },
+      {
+        "years": 3,
+        "type": "ios"
+      },
+      {
+        "years": 4,
+        "type": "ruby"
+      },
+      {
+        "years": 9,
+        "type": "java"
+      },
+      {
+        "years": 2,
+        "type": "android"
+      },
+      {
+        "years": 7,
+        "type": "java"
+      },
+      {
+        "years": 2,
+        "type": "angular"
+      },
+      {
+        "years": 7,
+        "type": "html"
+      },
+      {
+        "years": 8,
+        "type": "ror"
+      },
+      {
+        "years": 8,
+        "type": "ruby"
+      },
+      {
+        "years": 3,
+        "type": "android"
+      },
+      {
+        "years": 1,
+        "type": "html"
       },
       {
         "years": 8,
@@ -149,25 +818,480 @@
       },
       {
         "years": 10,
-        "type": "angular"
+        "type": "html"
+      },
+      {
+        "years": 2,
+        "type": "ruby"
       },
       {
         "years": 9,
+        "type": "html"
+      },
+      {
+        "years": 6,
+        "type": "html"
+      },
+      {
+        "years": 9,
+        "type": "android"
+      },
+      {
+        "years": 8,
         "type": "ror"
       },
       {
+        "years": 4,
+        "type": "html"
+      },
+      {
+        "years": 3,
+        "type": "ruby"
+      },
+      {
+        "years": 5,
+        "type": "css"
+      },
+      {
+        "years": 10,
+        "type": "ror"
+      },
+      {
+        "years": 7,
+        "type": "ror"
+      },
+      {
+        "years": 7,
+        "type": "java"
+      },
+      {
+        "years": 7,
+        "type": "java"
+      },
+      {
+        "years": 1,
+        "type": "css"
+      },
+      {
+        "years": 10,
+        "type": "angular"
+      },
+      {
+        "years": 4,
+        "type": "angular"
+      },
+      {
+        "years": 2,
+        "type": "html"
+      },
+      {
+        "years": 7,
+        "type": "css"
+      },
+      {
+        "years": 6,
+        "type": "ror"
+      },
+      {
+        "years": 10,
+        "type": "java"
+      },
+      {
+        "years": 8,
+        "type": "ruby"
+      },
+      {
+        "years": 10,
+        "type": "ruby"
+      },
+      {
+        "years": 6,
+        "type": "android"
+      },
+      {
         "years": 9,
+        "type": "angular"
+      },
+      {
+        "years": 6,
+        "type": "ror"
+      },
+      {
+        "years": 6,
+        "type": "android"
+      },
+      {
+        "years": 2,
+        "type": "html"
+      },
+      {
+        "years": 5,
+        "type": "angular"
+      },
+      {
+        "years": 2,
+        "type": "ios"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "nisi reprehenderit aliqua",
+    "office": "stockholm",
+    "competences": [
+      {
+        "years": 7,
+        "type": "ios"
+      },
+      {
+        "years": 7,
+        "type": "ios"
+      },
+      {
+        "years": 9,
+        "type": "java"
+      },
+      {
+        "years": 9,
+        "type": "ios"
+      },
+      {
+        "years": 6,
+        "type": "css"
+      },
+      {
+        "years": 5,
+        "type": "ruby"
+      },
+      {
+        "years": 4,
+        "type": "java"
+      },
+      {
+        "years": 4,
+        "type": "ios"
+      },
+      {
+        "years": 5,
+        "type": "css"
+      },
+      {
+        "years": 9,
+        "type": "angular"
+      },
+      {
+        "years": 1,
+        "type": "html"
+      },
+      {
+        "years": 9,
+        "type": "html"
+      },
+      {
+        "years": 2,
+        "type": "android"
+      },
+      {
+        "years": 5,
+        "type": "html"
+      },
+      {
+        "years": 10,
+        "type": "css"
+      },
+      {
+        "years": 5,
+        "type": "java"
+      },
+      {
+        "years": 3,
+        "type": "css"
+      },
+      {
+        "years": 4,
+        "type": "java"
+      },
+      {
+        "years": 3,
+        "type": "java"
+      },
+      {
+        "years": 6,
+        "type": "css"
+      },
+      {
+        "years": 9,
+        "type": "html"
+      },
+      {
+        "years": 10,
+        "type": "html"
+      },
+      {
+        "years": 6,
+        "type": "android"
+      },
+      {
+        "years": 10,
+        "type": "ror"
+      },
+      {
+        "years": 10,
+        "type": "ruby"
+      },
+      {
+        "years": 5,
+        "type": "java"
+      },
+      {
+        "years": 2,
+        "type": "html"
+      },
+      {
+        "years": 6,
+        "type": "ror"
+      },
+      {
+        "years": 7,
+        "type": "ios"
+      },
+      {
+        "years": 4,
+        "type": "ruby"
+      },
+      {
+        "years": 4,
+        "type": "ios"
+      },
+      {
+        "years": 1,
+        "type": "ror"
+      },
+      {
+        "years": 10,
+        "type": "ios"
+      },
+      {
+        "years": 3,
+        "type": "css"
+      },
+      {
+        "years": 8,
+        "type": "java"
+      },
+      {
+        "years": 9,
+        "type": "ruby"
+      },
+      {
+        "years": 10,
+        "type": "css"
+      },
+      {
+        "years": 2,
+        "type": "angular"
+      },
+      {
+        "years": 8,
+        "type": "android"
+      },
+      {
+        "years": 7,
+        "type": "ror"
+      },
+      {
+        "years": 10,
+        "type": "ruby"
+      },
+      {
+        "years": 3,
+        "type": "java"
+      },
+      {
+        "years": 5,
+        "type": "android"
+      },
+      {
+        "years": 9,
+        "type": "java"
+      },
+      {
+        "years": 6,
         "type": "android"
       }
     ]
   },
   {
     "id": 6,
-    "name": "aute proident id",
-    "office": "stockholm",
+    "name": "est velit labore",
+    "office": "växjö",
     "competences": [
       {
+        "years": 4,
+        "type": "html"
+      },
+      {
+        "years": 8,
+        "type": "ios"
+      },
+      {
+        "years": 9,
+        "type": "ruby"
+      },
+      {
+        "years": 9,
+        "type": "ios"
+      },
+      {
+        "years": 9,
+        "type": "html"
+      },
+      {
+        "years": 10,
+        "type": "html"
+      },
+      {
+        "years": 10,
+        "type": "ror"
+      },
+      {
+        "years": 2,
+        "type": "android"
+      },
+      {
+        "years": 4,
+        "type": "android"
+      },
+      {
         "years": 5,
+        "type": "angular"
+      },
+      {
+        "years": 4,
+        "type": "angular"
+      },
+      {
+        "years": 4,
+        "type": "android"
+      },
+      {
+        "years": 1,
+        "type": "ruby"
+      },
+      {
+        "years": 9,
+        "type": "android"
+      },
+      {
+        "years": 4,
+        "type": "ios"
+      },
+      {
+        "years": 1,
+        "type": "ios"
+      },
+      {
+        "years": 4,
+        "type": "ror"
+      },
+      {
+        "years": 2,
+        "type": "html"
+      },
+      {
+        "years": 5,
+        "type": "ios"
+      },
+      {
+        "years": 2,
+        "type": "html"
+      },
+      {
+        "years": 9,
+        "type": "ruby"
+      },
+      {
+        "years": 1,
+        "type": "ruby"
+      },
+      {
+        "years": 10,
+        "type": "java"
+      },
+      {
+        "years": 3,
+        "type": "ios"
+      },
+      {
+        "years": 8,
+        "type": "html"
+      },
+      {
+        "years": 6,
+        "type": "android"
+      },
+      {
+        "years": 8,
+        "type": "ios"
+      },
+      {
+        "years": 10,
+        "type": "ror"
+      },
+      {
+        "years": 9,
+        "type": "angular"
+      },
+      {
+        "years": 7,
+        "type": "angular"
+      },
+      {
+        "years": 8,
+        "type": "android"
+      },
+      {
+        "years": 4,
+        "type": "ruby"
+      },
+      {
+        "years": 7,
+        "type": "android"
+      },
+      {
+        "years": 9,
+        "type": "ruby"
+      },
+      {
+        "years": 2,
+        "type": "ror"
+      },
+      {
+        "years": 4,
+        "type": "ror"
+      },
+      {
+        "years": 5,
+        "type": "ruby"
+      },
+      {
+        "years": 1,
+        "type": "ios"
+      },
+      {
+        "years": 6,
+        "type": "ruby"
+      },
+      {
+        "years": 9,
+        "type": "ios"
+      },
+      {
+        "years": 8,
+        "type": "java"
+      },
+      {
+        "years": 3,
         "type": "ror"
       },
       {
@@ -175,367 +1299,12 @@
         "type": "android"
       },
       {
-        "years": 7,
-        "type": "angular"
-      },
-      {
-        "years": 9,
-        "type": "angular"
-      },
-      {
-        "years": 2,
-        "type": "java"
-      }
-    ]
-  },
-  {
-    "id": 7,
-    "name": "non magna voluptate",
-    "office": "göteborg",
-    "competences": [
-      {
-        "years": 7,
-        "type": "android"
-      },
-      {
-        "years": 5,
-        "type": "android"
-      },
-      {
         "years": 10,
-        "type": "android"
+        "type": "html"
       },
       {
         "years": 4,
-        "type": "ror"
-      },
-      {
-        "years": 2,
-        "type": "java"
-      }
-    ]
-  },
-  {
-    "id": 8,
-    "name": "laboris eu eu",
-    "office": "stockholm",
-    "competences": [
-      {
-        "years": 5,
-        "type": "android"
-      },
-      {
-        "years": 7,
-        "type": "java"
-      },
-      {
-        "years": 6,
-        "type": "java"
-      },
-      {
-        "years": 1,
-        "type": "android"
-      },
-      {
-        "years": 10,
-        "type": "java"
-      }
-    ]
-  },
-  {
-    "id": 9,
-    "name": "aliqua aliquip excepteur",
-    "office": "växjö",
-    "competences": [
-      {
-        "years": 1,
-        "type": "ror"
-      },
-      {
-        "years": 7,
         "type": "angular"
-      },
-      {
-        "years": 5,
-        "type": "ror"
-      },
-      {
-        "years": 9,
-        "type": "java"
-      },
-      {
-        "years": 5,
-        "type": "java"
-      }
-    ]
-  },
-  {
-    "id": 10,
-    "name": "labore Lorem et",
-    "office": "växjö",
-    "competences": [
-      {
-        "years": 3,
-        "type": "angular"
-      },
-      {
-        "years": 1,
-        "type": "angular"
-      },
-      {
-        "years": 2,
-        "type": "angular"
-      },
-      {
-        "years": 9,
-        "type": "java"
-      },
-      {
-        "years": 3,
-        "type": "android"
-      }
-    ]
-  },
-  {
-    "id": 11,
-    "name": "aliquip magna est",
-    "office": "malmö",
-    "competences": [
-      {
-        "years": 5,
-        "type": "android"
-      },
-      {
-        "years": 10,
-        "type": "java"
-      },
-      {
-        "years": 5,
-        "type": "java"
-      },
-      {
-        "years": 2,
-        "type": "java"
-      },
-      {
-        "years": 4,
-        "type": "ror"
-      }
-    ]
-  },
-  {
-    "id": 12,
-    "name": "pariatur commodo est",
-    "office": "växjö",
-    "competences": [
-      {
-        "years": 3,
-        "type": "java"
-      },
-      {
-        "years": 3,
-        "type": "angular"
-      },
-      {
-        "years": 2,
-        "type": "ror"
-      },
-      {
-        "years": 3,
-        "type": "android"
-      },
-      {
-        "years": 9,
-        "type": "angular"
-      }
-    ]
-  },
-  {
-    "id": 13,
-    "name": "enim cupidatat labore",
-    "office": "växjö",
-    "competences": [
-      {
-        "years": 2,
-        "type": "ror"
-      },
-      {
-        "years": 6,
-        "type": "java"
-      },
-      {
-        "years": 2,
-        "type": "java"
-      },
-      {
-        "years": 3,
-        "type": "ror"
-      },
-      {
-        "years": 9,
-        "type": "angular"
-      }
-    ]
-  },
-  {
-    "id": 14,
-    "name": "voluptate aliquip duis",
-    "office": "malmö",
-    "competences": [
-      {
-        "years": 7,
-        "type": "ror"
-      },
-      {
-        "years": 2,
-        "type": "angular"
-      },
-      {
-        "years": 1,
-        "type": "java"
-      },
-      {
-        "years": 7,
-        "type": "angular"
-      },
-      {
-        "years": 7,
-        "type": "ror"
-      }
-    ]
-  },
-  {
-    "id": 15,
-    "name": "ad quis consequat",
-    "office": "växjö",
-    "competences": [
-      {
-        "years": 6,
-        "type": "angular"
-      },
-      {
-        "years": 10,
-        "type": "angular"
-      },
-      {
-        "years": 4,
-        "type": "android"
-      },
-      {
-        "years": 3,
-        "type": "android"
-      },
-      {
-        "years": 9,
-        "type": "android"
-      }
-    ]
-  },
-  {
-    "id": 16,
-    "name": "voluptate ipsum sint",
-    "office": "göteborg",
-    "competences": [
-      {
-        "years": 4,
-        "type": "java"
-      },
-      {
-        "years": 10,
-        "type": "android"
-      },
-      {
-        "years": 2,
-        "type": "angular"
-      },
-      {
-        "years": 10,
-        "type": "angular"
-      },
-      {
-        "years": 9,
-        "type": "ror"
-      }
-    ]
-  },
-  {
-    "id": 17,
-    "name": "proident esse exercitation",
-    "office": "göteborg",
-    "competences": [
-      {
-        "years": 1,
-        "type": "android"
-      },
-      {
-        "years": 3,
-        "type": "angular"
-      },
-      {
-        "years": 2,
-        "type": "android"
-      },
-      {
-        "years": 8,
-        "type": "android"
-      },
-      {
-        "years": 6,
-        "type": "android"
-      }
-    ]
-  },
-  {
-    "id": 18,
-    "name": "duis et esse",
-    "office": "växjö",
-    "competences": [
-      {
-        "years": 10,
-        "type": "java"
-      },
-      {
-        "years": 5,
-        "type": "angular"
-      },
-      {
-        "years": 1,
-        "type": "java"
-      },
-      {
-        "years": 7,
-        "type": "java"
-      },
-      {
-        "years": 4,
-        "type": "java"
-      }
-    ]
-  },
-  {
-    "id": 19,
-    "name": "est magna velit",
-    "office": "stockholm",
-    "competences": [
-      {
-        "years": 4,
-        "type": "ror"
-      },
-      {
-        "years": 6,
-        "type": "angular"
-      },
-      {
-        "years": 3,
-        "type": "android"
-      },
-      {
-        "years": 5,
-        "type": "java"
-      },
-      {
-        "years": 6,
-        "type": "java"
       }
     ]
   }
