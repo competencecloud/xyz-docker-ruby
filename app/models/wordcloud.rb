@@ -1,6 +1,6 @@
 require 'net/http'
 
-class Wordmap
+class Wordcloud
 
     def initialize
 

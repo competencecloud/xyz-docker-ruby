@@ -54,6 +54,6 @@ Rails.application.routes.draw do
   #     resources :products
   #   end
 
-  get 'wordcloud' => 'wordmap#render_wordcloud', :as => :render_wordcloud
+  get 'wordcloud' => 'wordcloud#render_wordcloud', :as => :render_wordcloud
 
 end
