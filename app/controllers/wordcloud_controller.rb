@@ -4,6 +4,7 @@ class WordcloudController < ApplicationController
     # TODO: Limit to user scope. Need connectin to User to work
     @competences = Wordcloud.getAllUserComptences
     city_competences = Hash.new()
+    @tag_cloud_hash = Hash.new()
 
     json = JSON.parse(@competences)
 
@@ -23,9 +24,20 @@ class WordcloudController < ApplicationController
 
     end
 
-    # Create all cities
+    city_competences.each do |city|
+        maxOccurs = city[1].max_by{|k,v| v}[1]
+        minOccurs = city[1].min_by{|k,v| v}[1]
+        
+        minFontSize = 5
+        maxFontSize = 100
 
-    # Filter on city
+        weight = (city[1].count-minOccurs).to_f/(maxOccurs-minOccurs)
+        size = minFontSize + ((maxFontSize-minFontSize)*weight).round
+        @tag_cloud_hash[city[0]] = size if size > 7
+
+    end
+
+    byebug
 
     respond_to do |format|
       format.html { render html: city_competences }
